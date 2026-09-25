@@ -10,10 +10,7 @@ implementation of Loom.
 
 ## Team
 
-- [Name 1] — Grammar & language design lead
-- [Name 2] — Core language features (arithmetic, expressions, variables, print)
-- [Name 3] — Control flow and functions (if/else, while, functions, scope)
-- [Name 4] — Sample programs, testing, documentation, extension feature (arrays)
+- Kiran:  Grammar & language design lead, Core language features (arithmetic, expressions, variables, print),  Control flow and functions (if/else, while, functions, scope), Sample programs, testing, documentation, extension feature (arrays)
 
 *Replace the bracketed names with your actual names/GitHub usernames before
 your first commit.*
