@@ -1,0 +1,9 @@
+// Program 1 - Arithmetic and if/else
+let x = 10;
+let y = 20;
+if (x < y) {
+    print(x + y);
+} else {
+    print(x - y);
+}
+// Output: 30

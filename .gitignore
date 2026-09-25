@@ -1,0 +1,30 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+npm-debug.log
+
+# Java
+*.class
+target/
+
+# C / C++
+*.o
+*.out
+*.exe
+build/
+
+# General build output
+dist/
+out/

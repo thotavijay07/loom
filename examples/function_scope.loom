@@ -1,0 +1,10 @@
+// Program 3 - Function with parameters, return value, and scope
+func square(n) {
+    let result = n * n;
+    return result;
+}
+
+let value = 6;
+let squared = square(value);
+print(squared);
+// Output: 36
